@@ -1,0 +1,136 @@
+
+
+.section1{
+
+    background-color: #E6E6E6;
+    width: 1440px;
+    height: 188.19px;
+    left: 0px;
+    top: 0px;
+}
+
+.imagen_batman{
+
+    text-align: center;
+   
+
+}
+
+.section2 {
+
+    
+    width: 1440px;
+    height: 60px;
+    left: 0px;
+    top: 188px;
+    background-color: #C4C4C4;
+
+    
+}
+
+
+h1{
+    
+ 
+   
+    text-align: center;
+    color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 84.69%;
+
+}
+
+.section3{
+
+    background-color: #E5E5E5;
+ 
+    }
+
+
+
+.clase_datos {
+
+    background-color: #C4C4C4;;
+    width: 1440px;
+    height: 30px;
+    left: 0px;
+    top: 376px;
+
+}
+
+
+h2 {
+
+    
+    text-align: left;
+    color: #005677;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-style: normal;
+    
+
+   
+   
+}
+
+.italica {
+
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 15px;
+    line-height: 12.7px;
+
+}
+
+.imagen {
+    
+    width: 20px;
+    height: 20px;
+    left: 772px;
+    top: 996px;
+
+}
+
+.imagen1 {
+    
+    width: 20px;
+    height: 20px;
+    left: 818px;
+    top: 996px;
+
+}
+
+#batman {
+
+   
+    width: 145px;
+    height: 17px;
+    left: 601px;
+    top: 998px;
+    
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;
+    color: #ffffff ;
+    text-align: center;
+
+}
+
+.pie_pag {
+
+    
+    width: 1440px;
+    height: 37px;
+    left: 0px;
+    top: 987px;
+    text-align: center;
+    background: #005677;
+
+}
